@@ -1,0 +1,16 @@
+    1  ls
+    2  pwd
+    3  cd Desktop
+    4  ls
+    5  cd GitDemo
+    6  ls
+    7  Nano README.md
+    8  git add .
+    9  git status
+   10  git push origin master
+   11  git commit -m "Add README.md, instructions.txt"
+   12  git push origin master
+   13  history > history.txt
+
+
+add > commit > push
